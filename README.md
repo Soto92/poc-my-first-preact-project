@@ -1,4 +1,4 @@
-# poc : my-first-preact-project
+# poc : my-first-preact-app
 
 ## Description:
 Implemented react-hooks in preact with functional programming.
